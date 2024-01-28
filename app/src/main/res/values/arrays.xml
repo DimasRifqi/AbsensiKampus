@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_matkul">
+        <item>Pemrograman Jaringan</item>
+        <item>Jaringan komputer</item>
+        <item>Mobile Programming</item>
+        <item>Data Mining</item>
+        <item>Matematika</item>
+        <item>Basis Data</item>
+        <item>Komputasi Numerik</item>
+    </string-array>
+</resources>

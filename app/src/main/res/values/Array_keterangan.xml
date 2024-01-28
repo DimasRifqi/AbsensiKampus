@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_keterangan">
+        <item>Hadir</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
